@@ -8,4 +8,4 @@ Usage: to verify the two algorithms of perceptron
 python dataGeneration.py
 python chapt2.py
 ```
-![output](cahpt2/output/output1.png)
+![output](https://github.com/leonidas141/statistic-learning/blob/master/chapt2/output/output1.png)
